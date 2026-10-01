@@ -1,0 +1,6 @@
+{
+  "name": "AI Healthcare Care-Navigation Agent",
+  "description": "Agentic AI healthcare care-navigation platform that converts fragmented healthcare documents into an organized, evidence-backed care coordination workflow with strict evidence tracing and uncertainty tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
